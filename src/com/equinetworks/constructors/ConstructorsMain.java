@@ -1,6 +1,6 @@
-package com.javalesson.constructors;
+package com.equinetworks.constructors;
 
-import com.javalesson.domainmodel.Employee;
+import com.equinetworks.domainmodel.Employee;
 
 
 public class ConstructorsMain {

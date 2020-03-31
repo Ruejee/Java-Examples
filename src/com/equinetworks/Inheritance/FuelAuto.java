@@ -1,4 +1,4 @@
-package com.javalesson.Inheritance;
+package com.equinetworks.Inheritance;
 
 public class FuelAuto extends Auto {
 

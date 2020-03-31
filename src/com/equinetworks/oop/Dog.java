@@ -1,4 +1,4 @@
-package com.javalesson.oop;
+package com.equinetworks.oop;
 
 public class Dog {
 

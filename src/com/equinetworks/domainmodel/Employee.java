@@ -1,4 +1,4 @@
-package com.javalesson.domainmodel;
+package com.equinetworks.domainmodel;
 
 public class Employee {
 

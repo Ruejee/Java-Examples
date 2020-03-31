@@ -1,4 +1,4 @@
-package com.javalesson.Inheritance;
+package com.equinetworks.Inheritance;
 
 import java.util.ArrayList;
 import java.util.List;
