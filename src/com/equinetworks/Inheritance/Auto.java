@@ -52,5 +52,18 @@ public class Auto {
         return isRunning;
     }
 
+    public void setCurrentSpeed(int currentSpeed) {
+        this.currentSpeed = currentSpeed;
+    }
 
+    @Override
+    public String toString() {
+        return "Auto{" +
+                "producer='" + producer + '\'' +
+                ", model='" + model + '\'' +
+                ", engine=" + engine +
+                ", currentSpeed=" + currentSpeed +
+                ", isRunning=" + isRunning +
+                '}';
+    }
 }
