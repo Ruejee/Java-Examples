@@ -7,12 +7,12 @@ public class InheritanceMain {
         Engine truckEngine = new Engine(6.0, EngineType.DIESEL, 900);
         Truck truck = new Truck("Volvo", "VNL 300", truckEngine,
                 300, 500, 1000);
-        truck.start();
+/*        truck.start();
         truck.accelerate(40);
         truck.stop();
         truck.fuelUp(50);
         truck.load();
-        truck.unload();
+        truck.unload();*/
 
         System.out.println("\n");
 
