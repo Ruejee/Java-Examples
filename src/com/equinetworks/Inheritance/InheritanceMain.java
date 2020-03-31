@@ -1,3 +1,4 @@
+//Java Polymorphisms
 package com.equinetworks.Inheritance;
 
 public class InheritanceMain {
