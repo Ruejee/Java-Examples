@@ -1,6 +1,6 @@
 package com.equinetworks.interfaces;
 
-public abstract class Electronics implements Deliverable, Orderable {
+public abstract class Electronics implements Pricable {
 
     private String make;
     private String model;

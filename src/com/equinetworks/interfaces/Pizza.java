@@ -1,6 +1,6 @@
 package com.equinetworks.interfaces;
 
-public class Pizza implements Deliverable, Orderable {
+public class Pizza implements Pricable {
 
     private String name;
     private int quantity;

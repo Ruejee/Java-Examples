@@ -1,8 +1,8 @@
 package com.equinetworks.interfaces;
 
-public class Frige extends Electronics {
+public class Fridge extends Electronics {
 
-    public Frige(String make, String model, int quantity, int price) {
+    public Fridge(String make, String model, int quantity, int price) {
         super(make, model, quantity, price);
     }
 
@@ -15,4 +15,5 @@ public class Frige extends Electronics {
             return 25;
         }
     }
+
 }
