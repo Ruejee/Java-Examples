@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a945c95-55a4-4026-add0-80989ad22fd3" name="Default Changelist" comment="" />
+    <list default="true" id="7a945c95-55a4-4026-add0-80989ad22fd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="b2e5ebb2-72db-4468-834a-1f2259c26497" name="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object..." comment="">
       <change beforePath="$PROJECT_DIR$/src/com/equinetworks/Inheritance/InheritanceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/equinetworks/Inheritance/InheritanceMain.java" afterDir="false" />
     </list>
@@ -143,7 +146,7 @@
       <updated>1585341031466</updated>
       <workItem from="1585341035855" duration="10579000" />
       <workItem from="1585577212396" duration="25220000" />
-      <workItem from="1585683838516" duration="11076000" />
+      <workItem from="1585683838516" duration="11929000" />
     </task>
     <task id="LOCAL-00001" summary="Extend knowledge about java java.oop">
       <created>1585662854383</created>
@@ -264,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585700634635</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Test Git configuration, .gitignore file">
+      <created>1585701226625</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585701226625</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +436,7 @@
     <MESSAGE value="Modyfing READMY.md file first time ;)" />
     <MESSAGE value="Java Abstract Class, modify and optimise code for abstract example" />
     <MESSAGE value="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example" />
+    <MESSAGE value="Test Git configuration, .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Git configuration, .gitignore file" />
   </component>
 </project>

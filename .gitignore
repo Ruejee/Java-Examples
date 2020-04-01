@@ -24,6 +24,6 @@ hs_err_pid*
 
 
 
-!/OOP.iml
-!/.idea/
-!/out
+/OOP.iml
+/.idea/**
+/out/**
