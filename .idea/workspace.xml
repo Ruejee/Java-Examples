@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a945c95-55a4-4026-add0-80989ad22fd3" name="Default Changelist" comment="" />
+    <list id="b2e5ebb2-72db-4468-834a-1f2259c26497" name="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object..." comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/equinetworks/Inheritance/InheritanceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/equinetworks/Inheritance/InheritanceMain.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Cristian &lt;35853294+ruejee@users.noreply.github.com&gt;" />
+        <option value="Ruejee &lt;dbyx.project@gmail.com&gt;" />
+        <option value="Ruejee" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="autoServices" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="676933de-fae5-41b9-a52c-c641b58afa52" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zj8EYTE2GzTGjt5C58G7rbAjvu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javalesson.Inheritance" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InheritanceMain">
+    <configuration name="ConstructorsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.equinetworks.constructors.ConstructorsMain" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.equinetworks.constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.equinetworks.Inheritance.InheritanceMain" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.equinetworks.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.equinetworks.oop.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.equinetworks.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InheritanceMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConstructorsMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InheritanceMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a945c95-55a4-4026-add0-80989ad22fd3" name="Default Changelist" comment="" />
+      <changelist id="b2e5ebb2-72db-4468-834a-1f2259c26497" name="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object..." comment="" />
+      <created>1585341031466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585341031466</updated>
+      <workItem from="1585341035855" duration="10579000" />
+      <workItem from="1585577212396" duration="25220000" />
+      <workItem from="1585683838516" duration="11076000" />
+    </task>
+    <task id="LOCAL-00001" summary="Extend knowledge about java java.oop">
+      <created>1585662854383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585662854383</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Uncoment truck in main to save full work for git ))&#10;autoServices Project">
+      <created>1585663064975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585663064975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uncoment truck in main to save full work for git ))&#10;autoServices Project">
+      <created>1585667922362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585667922363</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing VCS connection (have problem)">
+      <created>1585669012758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585669012758</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed project profile, some less changed in structures and make refractor">
+      <created>1585684350908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585684350908</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed project profile, some less changed in structures and make refractor">
+      <created>1585684436409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585684436409</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed project profile, some less changed in structures and make refractor">
+      <created>1585684573679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585684573679</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed project profile, some less changed in structures and make refractor">
+      <created>1585685774170</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585685774170</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed project profile, some less changed in structures and make refractor">
+      <created>1585686326821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585686326821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changed project , learn Java Polymophism, removed call method from precedent Inheritance lesson InheritanceMain.class">
+      <created>1585694871306</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585694871306</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Changed project , learn Java Polymophism, Example 2 of using Java Polymorphism in code">
+      <created>1585696325288</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585696325288</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object...">
+      <created>1585696824216</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585696824216</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object...">
+      <created>1585697045123</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585697045123</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Modyfing READMY.md file first time ;)">
+      <created>1585697458686</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585697458687</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Java Abstract Class, modify and optimise code for abstract example">
+      <created>1585699368032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585699368032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example">
+      <created>1585699553907</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585699553907</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example">
+      <created>1585700634635</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585700634635</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="HEAD..autoServices" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Extend knowledge about java java.oop" />
+    <MESSAGE value="Uncoment truck in main to save full work for git ))&#10;autoServices Project" />
+    <MESSAGE value="testing VCS connection (have problem)" />
+    <MESSAGE value="testing VCS connection (have problem)&#10;&#10;Signed-off-by: Ruejee &lt;dbyx.project@gmail.com&gt;" />
+    <MESSAGE value="Changed project profile, some less changed in structures and make refractor" />
+    <MESSAGE value="Changed project , learn Java Polymophism, removed call method from precedent Inheritance lesson InheritanceMain.class" />
+    <MESSAGE value="Changed project , learn Java Polymophism, Example 2 of using Java Polymorphism in code" />
+    <MESSAGE value="Changed project , learn Java Polymophism, Example 3 continue learning Polymophism optimise code and verify type of used object..." />
+    <MESSAGE value="Modyfing READMY.md file first time ;)" />
+    <MESSAGE value="Java Abstract Class, modify and optimise code for abstract example" />
+    <MESSAGE value="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying README.me file add Java Abstract Class, modify and optimise code for abstract example" />
+  </component>
+</project>
