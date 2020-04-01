@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         CellPhone phone = new CellPhone("Sony", "Xperia SP");
         phone.turnOn();
+        phone.call("123456a890");
 
 
     }

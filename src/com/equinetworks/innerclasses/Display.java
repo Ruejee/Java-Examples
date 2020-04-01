@@ -9,10 +9,11 @@ public class Display {
         Pixel pixel = new Pixel(10, 10, Color.BLUE);
     }
 
-    private static class Pixel {
+    private class Pixel {
         private int x;
         private int y;
         private Color color;
+
         // Make verification with (if,else) statement to know if used parameters for x,y is in legal range.
         // Throw Exception if have used ilegal parameters for x,y
         private Pixel(int x, int y, Color color) {
