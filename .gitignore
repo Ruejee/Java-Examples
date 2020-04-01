@@ -26,5 +26,6 @@ hs_err_pid*
 
 
 out/*
-/OOP.iml
+OOP.iml
 .idea/*
+!/.gitignore
