@@ -1,4 +1,4 @@
-package com.equinetworks.Inheritance;
+package com.equinetworks.inheritance;
 
 public class Piston {
     private double volume;

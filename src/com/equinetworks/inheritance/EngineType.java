@@ -1,4 +1,4 @@
-package com.equinetworks.Inheritance;
+package com.equinetworks.inheritance;
 
 public enum EngineType {
     PETROL,DIESEL,ELECTRIC
