@@ -1,6 +1,6 @@
 package com.equinetworks.Inheritance;
 
-public class FuelAuto extends Auto {
+public abstract class FuelAuto extends Auto {
 
     private int availablePetrol;
     private int tankVolume;
@@ -13,8 +13,9 @@ public class FuelAuto extends Auto {
 
     public void fuelUp(int petrolVolume) {
         availablePetrol += petrolVolume;
-        System.out.println("Adding fuel");
+        System.out.println("Adding Fuel");
     }
+
 
     public int getAvailablePetrol() {
         return availablePetrol;

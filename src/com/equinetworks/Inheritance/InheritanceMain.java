@@ -1,4 +1,3 @@
-//Java Polymorphisms
 package com.equinetworks.Inheritance;
 
 public class InheritanceMain {
@@ -8,16 +7,16 @@ public class InheritanceMain {
         Auto bus = new Bus("Mercedes", "Sprinter", busEngine, 30, 75, 12);
         Auto truck = new Truck("Volvo", "VNL 300", truckEngine, 300, 500, 1000);
         Auto car = new ElectricCar("Tesla", "Model S", 4, 5);
-        Auto auto=new Auto("WV","Polo",busEngine);
+//        Auto auto=new Auto("VW","Polo",busEngine);
 
         runCar(bus);
         runCar(truck);
         runCar(car);
-        runCar(auto);
+//        runCar(auto);
 
     }
 
-    private static void runCar(Auto auto){
+    private static void runCar(Auto auto) {
         auto.start();
         auto.stop();
     }

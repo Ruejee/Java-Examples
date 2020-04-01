@@ -60,5 +60,10 @@ public class Bus extends FuelAuto {
         System.out.println("Passenger released");
     }
 
+    @Override
+    public void energize() {
+        fuelUp(getTankVolume() - getAvailablePetrol());
+    }
+
 
 }
