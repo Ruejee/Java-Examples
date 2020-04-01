@@ -19,5 +19,6 @@ public class InheritanceMain {
     private static void runCar(Auto auto) {
         auto.start();
         auto.stop();
+        auto.energize();
     }
 }
