@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ExceptionHandlingMain {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         boolean continueLoop = true;
         PrintWriter writer = null;
@@ -24,14 +24,14 @@ public class ExceptionHandlingMain {
                     throw new RuntimeException("Runtime exception");
                 }
                 continueLoop = false;
-            } catch (ArithmeticException | InputMismatchException e) {
+            } /*catch (ArithmeticException | InputMismatchException e) {
                 System.out.println("Exception : " + e);
                 scanner.nextLine();
                 System.out.println("Only integer non-zero parameters allowed");
             } catch (IOException e) {
                 System.out.println("Unable to open file");
                 e.printStackTrace();
-            } finally {
+            }*/ finally {
                 System.out.println("Finally block was called");
                 writer.close();
             }
