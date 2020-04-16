@@ -15,15 +15,12 @@ public class ExceptionHandlingMain {
                 int denominator = scanner.nextInt();
                 System.out.println(divide(numerator, denominator));
                 continueLoop = false;
-            } catch (ArithmeticException e) {
+            } catch (ArithmeticException | InputMismatchException e) {
                 System.out.println("Exception : " + e);
                 scanner.nextLine();
-                System.out.println("Only non-zero parameters allowed");
-            } catch (InputMismatchException e) {
-                System.out.println("Exception " + e);
-                scanner.nextLine();
-                System.out.println("Only Integer values are allowed");
+                System.out.println("Only integer non-zero parameters allowed");
             }
+            System.out.println("Try Catch block finished");
         } while (continueLoop);
     }
 
