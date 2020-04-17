@@ -9,5 +9,6 @@ Java Project in development process
 * Java Exception - 16 aprill 2020.
 * Java Collections - 17 april 2020
     - Arrays.
+    - Arrays Auto Sorting Algoritms.
 
 
