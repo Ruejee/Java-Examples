@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Java Collection
  * - Arrays
  * - Arrays Sorting with simple algoritms
+ * - Arrays Index
  * understand how works arrays in example from simple
  * to complicated multi.arrays list and how to work with it.
  */
@@ -47,6 +48,7 @@ public class ArraysLauncher {
         }
 
         int[] array = SortingAlgoritms.sort(myArray);
+
         for (int i = 0; i < myArray.length; i++) {
             System.out.println("Elements #" + i + " = " + myArray[i]);
         }

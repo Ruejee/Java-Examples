@@ -2,6 +2,9 @@ package com.equinetworks.collections.arrays;
 
 public class SortingAlgoritms extends ArraysLauncher {
 
+    public SortingAlgoritms() {
+    }
+
     /**
      * Algoritms of auto sortings input int data
      * of massive form user with scanner
@@ -11,6 +14,8 @@ public class SortingAlgoritms extends ArraysLauncher {
      * @param array
      * @return
      */
+
+
 
     static int[] sort(int[] array)  {
         // int[] myNewArray = Arrays.copyOf(array, array.length);
